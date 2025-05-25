@@ -3,7 +3,7 @@ author: "Blog Author"
 description: "Made with Jekyll"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "\r\n\r\n\r\n"
 date_format: "%B %d, %Y"
 
 # Layout
