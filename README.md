@@ -4,6 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## こんにちは
+## ブログ
 
-あいうえお
+[リンク](https://suito-kig.github.io/blog/)
