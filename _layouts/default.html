@@ -27,6 +27,11 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 {% include twitter-card.html %}
+{% if page.image %}
+<meta name="og:image" content="{{ site.url }}/assets/images/{{ page.image }}" />
+{% else %}
+<meta name="og:image" content="{{ site.url }}/assets/images/logo.png" />
+{% endif %}
 
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
