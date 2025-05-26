@@ -1,5 +1,6 @@
 title: "上がるファスナー"
 author: "すいと"
+twitter_username: "suito_kig"
 description: "Made with Jekyll"
 permalink: /:title/
 lang: "ja"
@@ -33,3 +34,4 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-gist
+ - jekyll-seo-tag
