@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "上がるファスナー"
+author: "すいと"
 description: "Made with Jekyll"
 permalink: /:title/
-lang: "en"
+lang: "ja"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: X, icon: x-twitter, url: "https://x.com/suito_kig"}
   - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/suito-kig.bsky.social"}
+  - {title: Discord, icon: discord, url: "https://discordapp.com/users/1174343048499568753"}
   - {title: Github, icon: github, url: "https://github.com/suito-kig"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
