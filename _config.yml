@@ -6,7 +6,7 @@ permalink: /:title/
 lang: "ja"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-url: "https://suito-kig.github.io/"
+url: "https://suito-kig.github.io"
 
 # Layout
 
