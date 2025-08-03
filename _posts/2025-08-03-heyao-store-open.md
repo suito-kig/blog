@@ -1,7 +1,7 @@
 ---
 title: "河妖屋実店舗に行ってきた"
 layout: post
-description: "近くに河妖屋実店舗が開店したので行ってきた"
+description: "近くに河妖屋実店舗が開店したので行ってきました"
 image: "20250803/display-kigurumi-01.jpg"
 ---
 
